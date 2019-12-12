@@ -7,4 +7,4 @@ end
 
 rescue_princess_peach
 
-puts phrase 
+puts status
